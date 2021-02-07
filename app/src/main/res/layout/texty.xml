@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#777720"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="290dp"
+        android:layout_height="80dp"
+        android:text="The Cake Shop"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:id="@+id/i1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/images"/>
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t1"
+        android:text="Cone Cake"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/oreocake"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t2"
+        android:text="Oreo Cake"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/icecream"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t3"
+        android:text="Cream Cake"
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/icecream2"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t4"
+        android:text="IceCream Cake"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/blue"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t5"
+        android:text="Blue Cake"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/creamcake"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t6"
+        android:text="Cake"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/images"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t7"
+        android:text="Choco Cake"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/yummy"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t8"
+        android:text="Yum Cake"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/black"/>
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:id="@+id/t9"
+        android:layout_gravity="center"
+        android:text="Black Cake"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+
+
+
+
+
+
+</LinearLayout>
